@@ -1,0 +1,51 @@
+body{
+  background-color: #FDF0D5;
+}
+.card {
+  margin-top: 10px;
+  background-color: #FDF0D5;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.card h5{
+  color: #003049;
+}
+.card p{
+  color: #003049;
+}
+.card a{
+  background-color: #780000;
+  border: none;
+
+  &:hover{
+    background-color: #C1121F;
+  }
+}
+.navbar{
+  background-color: #003049 !important;
+}
+.navbar ul li a {
+  color: #FDF0D5 !important;
+}
+
+.navbar-brand {
+  color: #FDF0D5 !important;
+}
+
+.table{
+  background-color: #003049 !important;
+  color: #FDF0D5;
+}
+td a{
+  color: #FDF0D5;
+  margin-left: 20px;
+  text-decoration: none;
+  &:hover{
+    color: #C1121F;
+  }
+}
+input{
+  background-color: #003049;
+  border: none;
+  color: #FDF0D5;
+  text-align: center;
+}
